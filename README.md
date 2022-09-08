@@ -23,6 +23,6 @@ Illustration of AutoML using JADBio
 
 ## Project 4
 
-Illustration of low-code AutoML using PyCaret
+Illustration of low-code AutoML using PyCaret and demo's of Multiclass Classification and Regression using Gradio
 
 For Timeseries modeling I have used Pythons Statsmodels library, as I had package dependency issues with PyCarets Timeseries module
