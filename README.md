@@ -37,7 +37,7 @@ Available in the [PyCaret folder](https://github.com/shernee/01_cmpe255/tree/mas
 
 Illustration of different methods to perform Exploratory Data Analysis
 
-The first method is manual EDA using Pandas and matplotlib. Bokeh visualization pertaining to the analysis are in the final section of the notebook.
+The first method is manual EDA using Pandas and matplotlib. Bokeh visualizations pertaining to the analysis are in the final section of the notebook.
 
 The second method is auto EDA using SweetViz.
 
