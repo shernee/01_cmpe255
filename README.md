@@ -44,3 +44,16 @@ The second method is auto EDA using SweetViz.
 The third method is using Apache Beam to create pipelines. The Colab code presets a small sample of how data can be transformed to gain insights using Apache Beam. 
 
 Available in the [Exploratory_Data_Analysis folder](https://github.com/shernee/01_cmpe255/tree/master/Exploratory_Data_Analysis)
+
+### Project 5
+
+Illustration of different methods for 
+- Data scaling/normalization
+- Data portability
+- Feature subset selection
+- Data imputation
+- Dimensionality reduction
+
+Illustration of feature subset selection using FeatureWiz
+
+Illustration of End to end ML using Databricks (screenshots in Databricks_ML.docx file)
