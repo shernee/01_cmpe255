@@ -57,3 +57,5 @@ Illustration of different methods for
 Illustration of feature subset selection using FeatureWiz
 
 Illustration of End to end ML using Databricks (screenshots in Databricks_ML.docx file)
+
+Available in the [Data_Preparation folder](https://github.com/shernee/01_cmpe255/tree/master/Data_Preparation)
